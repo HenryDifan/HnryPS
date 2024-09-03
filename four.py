@@ -1,1 +1,1 @@
-printO("hello 4 push")
+print("hello 4 push")
